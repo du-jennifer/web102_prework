@@ -38,7 +38,7 @@ A challenge I encountered include implementing the Javascript logic with the cor
 
 ## License
 
-    Copyright [2026] [Jennifer Du]
+    Copyright 2026 Jennifer Du
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
