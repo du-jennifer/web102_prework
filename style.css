@@ -21,6 +21,13 @@ body {
 
 .stats-container {
     display: flex;
+    align-items: center;
+    border: 1px solid lightblue
+}
+
+.stats-container:hover {
+  cursor: pointer;
+  box-shadow: 0 0 30px lightblue;
 }
 
 .stats-card {
@@ -72,4 +79,35 @@ button {
     padding: 1%;
     margin: 1%;
     border-radius: 7px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.nav-bar {
+    background-color: blanchedalmond;
+    display: flex;
+    justify-content: flex-end; 
+    align-items: center;
+    gap: 20px; 
+    position: sticky;
+    top: 0;
+    padding: 15px 30px;
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-top: -10px;
+}
+
+.nav-bar a {
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.nav-bar a:link {
+  color: #448ee4; 
+}
+
+.nav-bar a:visited {
+    color: #758190;
 }
