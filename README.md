@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-![Video Walkthrough](https://media.giphy.com/media/0EpK644kfc0O0CrcpQ/giphy.gif)
+![Video Walkthrough](assets/demo.gif)
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with GIPHY
 <!-- Recommended tools:
